@@ -1,0 +1,5 @@
+Xài:
+https://dillinger.io/
+https://markdownlivepreview.com/
+
+Nhưng nếu có vscode thì xài  CTRL+SHIFT+V để mở nhé 
